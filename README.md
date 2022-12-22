@@ -1,6 +1,6 @@
 # Crypto Price Forecasting (Time Series Forecasting)
 
-<p> In this project, I prepared some scripts for a client to convert their PDF files into readable word files and then making a search engine based on that. </p>
+<p> In this project, I have bult a complete Crypto Price Forecasting/ Trading Bot application, in which I utilized the I prepared some scripts for a client to convert their PDF files into readable word files and then making a search engine based on that. </p>
 
 <p> You can find some scripts in Python in which I made it possible to look for a specific word in a PDF file, count the times the word appear in a PDF file, and merge thousands of pdf files to search a word in it </p>
 
@@ -13,10 +13,14 @@
 <br />
 <br />
 
+<h2> Uploading the crypto/ trade data: </h2>
+
 <img src="https://github.com/waleedjmm/crypto-price-forecasting/blob/main/1.png" />
 <br />
 
+<h2> Changing the hyperparameters and selecting machine learning/ deep learning model: </h2>  
 <img src="https://github.com/waleedjmm/crypto-price-forecasting/blob/main/2.png" />
 <br />
 
+<h2> Output Chart with original and forecasted value and evaluation metrics </h2>  
 <img src="https://github.com/waleedjmm/crypto-price-forecasting/blob/main/3.png" />
