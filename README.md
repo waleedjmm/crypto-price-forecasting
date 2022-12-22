@@ -13,4 +13,10 @@
 <br />
 <br />
 
-<img src="https://github.com/waleedjmm/Text-OCR/blob/main/Text_OCR.gif" />
+<img src="https://github.com/waleedjmm/crypto-price-forecasting/blob/main/1.png" />
+<br />
+
+<img src="https://github.com/waleedjmm/crypto-price-forecasting/blob/main/2.png" />
+<br />
+
+<img src="https://github.com/waleedjmm/crypto-price-forecasting/blob/main/3.png" />
